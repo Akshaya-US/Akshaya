@@ -1,12 +1,15 @@
 ### Hi there 👋, I'm Akshaya
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
+#### I am an upcoming DataAnalyst.
 ML and DL aspirer
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: ML / DL / JAVA / HTML / CSS / JAVA SCRIPT / PYTHON
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
